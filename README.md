@@ -13,8 +13,7 @@
 - 💻  Ask me about: **Computer Vision, ML, WebDev, Video Editing, and Design.**
 - <img alt="LinkedIn" src="https://github.com/priyanshrd/priyanshrd/blob/main/linkedin.png" height="20"/> Reach me out on LinkedIn: [Priyansh Rajiv Dhotar](https://www.linkedin.com/in/priyanshrd)
 - 🏅 Fun fact: **I'm a [Taekwondo Athlete](https://www.instagram.com/p/C-E02DxvPXI/?igsh=MTB5d3NmMzZncGd5eQ==), a [Speedcuber](https://www.worldcubeassociation.org/persons/2024DHOT01) and I [write](https://www.instagram.com/p/C_GB5mKyaNb/?igsh=MWg4YWNiaXlycGsxeg==) sometimes!**
-
-
+- 🤭 I use this cursor [<img alt="Fries" src="https://github.com/priyanshrd/priyanshrd/blob/main/pack569.png" height="20"/>](https://custom-cursor.com/en/collection/food-and-drinks/fries)
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />

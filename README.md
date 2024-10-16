@@ -53,11 +53,7 @@
 - 🏅 Fun fact: **I'm a [Taekwondo Athlete](https://www.instagram.com/p/C-E02DxvPXI/?igsh=MTB5d3NmMzZncGd5eQ==), a [Speedcuber](https://www.worldcubeassociation.org/persons/2024DHOT01) and I [write](https://www.instagram.com/p/C_GB5mKyaNb/?igsh=MWg4YWNiaXlycGsxeg==) sometimes!**
 - 🤭 I use this cursor [<img alt="Fries" src="https://github.com/priyanshrd/priyanshrd/blob/main/pack569.png" height="20"/>](https://custom-cursor.com/en/collection/food-and-drinks/fries)
 ---
-<h3 align="center">Currently Listening 🎧</h3>
-<p align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312z7u3jrbvnsulzki66ngbayc6y&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312z7u3jrbvnsulzki66ngbayc6y&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Profile" />
-    </a>
+
 </p>
 
 </p>

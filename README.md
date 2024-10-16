@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 📫 Join my Discord Server: **Join my Discord Server <img alt="Discord" src="https://img.shields.io/discord/1000819196000747541">**
+- 📫 How to reach me: **Join my Discord Server  [<img alt="Discord" height="20px" src="https://github.com/priyanshrd/priyanshrd/blob/main/download.png"/>](https://discord.gg/yQsXFprAxM)**
 - 💬 Ask me about: **Computer Vision, ML, WebDev, Video Editing and Design.**
 - 🔗 Find me on LinkedIn: [<img alt="LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/priyanshrd)
 - 🏅 Fun fact: **I'm a Taekwondo Athlete and a Speedcuber.**

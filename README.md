@@ -9,10 +9,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 📫 Connect to me: **Join my Discord Server  [<img alt="Discord" height="20px" width="36px" src="https://github.com/priyanshrd/priyanshrd/blob/main/download.png"/>](https://discord.gg/yQsXFprAxM)**
-- 💬 Ask me about: **Computer Vision, ML, WebDev, Video Editing and Design.**
-- 🔗 Reach out on LinkedIn: [<img alt="LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/priyanshrd)
-- 🏅 Fun fact: **I'm a Taekwondo Athlete and a Speedcuber.**
+- <img alt="Discord" src="https://github.com/priyanshrd/priyanshrd/blob/main/download.png" height="20"/> Connect to me: **Join my [Discord Server](https://discord.gg/yQsXFprAxM)!**
+- 💻 Ask me about: **Computer Vision, ML, WebDev, Video Editing, and Design.**
+- <img alt="LinkedIn" src="https://github.com/priyanshrd/priyanshrd/blob/main/linkedin.png" height="20"/> Reach out on LinkedIn: [priyanshrd](https://www.linkedin.com/in/priyanshrd)
+- 🏅 Fun fact: **I'm a [Taekwondo Athlete](https://www.instagram.com/p/C-E02DxvPXI/?igsh=MTB5d3NmMzZncGd5eQ==), a [Speedcuber](https://www.worldcubeassociation.org/persons/2024DHOT01) and I [write](https://www.instagram.com/p/C_GB5mKyaNb/?igsh=MWg4YWNiaXlycGsxeg==) sometimes!**
+
 
 ---
 

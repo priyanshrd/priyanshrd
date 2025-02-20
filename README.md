@@ -2,7 +2,7 @@
 <!--  --><p><b>I'm a CS Junior at RVCE</b><br />who's into</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Modelling+and+Design;Computer+Vision+and+ML;2D+and+3D+Web+Development">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Vision+and+ML;Frontend+Development;Language+Models">
 </a>
 
 

@@ -4,6 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Vision+and+ML;Frontend+Development;Language+Models">
 </a>
+<p>I enjoy building systems that serve a real purpose. It's still a bit magical to me how something as still as code on a screen can come alive and do so much. Over time, especially through college, I’ve learned how important it is to focus on strong, stable architecture — not just what works today, but what holds up tomorrow too.
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

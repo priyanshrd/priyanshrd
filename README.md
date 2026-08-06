@@ -34,9 +34,6 @@ Outside of ML, I care about backend architecture that holds up under real use, n
   <a href="https://discord.gg/yQsXFprAxM">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/itqohealth">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.worldcubeassociation.org/persons/2024DHOT01">
     <img src="https://img.shields.io/badge/WCA_Profile-000000?style=for-the-badge&logo=rubiks-cube&logoColor=white" />
   </a>

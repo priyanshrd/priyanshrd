@@ -20,8 +20,7 @@ Outside of ML, I care about backend architecture that holds up under real use, n
 
 ### 🔭 Currently
 
-- 🛠️ Building **ITQO** — an OCR app, in active development
-- 📸 Posting build progress on [Instagram](https://www.instagram.com/itqo)
+- 🛠️ Building **Rebut** and **Frynance** for personal use
 - 🧩 For fun: solving cubes competitively, and playing badminton/football when I get the chance
 
 <br>
